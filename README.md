@@ -1,4 +1,4 @@
-### Hi! I'm Emek and i am trying to improve Frontend Web Development. 
+### Hi! I'm Emek and i am trying to improve Python. 
 - <img src="https://c.tenor.com/95ycw_CgVHoAAAAC/napoleon-dynamite-wave.gif" width="auto">
 Here are some ideas to get you started:
 
